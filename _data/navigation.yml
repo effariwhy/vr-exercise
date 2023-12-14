@@ -1,0 +1,43 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Favorite Posts"
+    children:
+      - title: "Favorite Post 1"
+        url: /fav-post-1/
+      - title: "Favorite Post 2"
+        url: /fav-post-2/
+      - title: "Favorite Post 3"
+        url: /fav-post-3/
+  - title: "Favorite Pages"
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Favorite Page 2"
+        url: /fav-page-2/
+      - title: "Favorite Page 3"
+        url: /fav-page-3/
+  - title: "Favorite Collections"
+    children:
+      - title: "Markdown"
+        url: /collections/markdown/
+      - title: "Favorite Collection 2"
+        url: /fave-collection-2/
+      - title: "Favorite Collection 3"
+        url: /fave-collection-3/
+  - title: "Favorite Domains"
+    children:
+      - title: "NPR"
+        url: https://www.npr.org/
+      - title: "Wikipedia"
+        url: https://www.wikipedia.org/

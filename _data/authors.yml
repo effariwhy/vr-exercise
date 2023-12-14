@@ -1,0 +1,17 @@
+# Authors
+
+kristy:
+  name        : "Kristy"
+  bio         : "introverted"
+  avatar      : "/assets/images/bio-photos/kristy.png"
+  links:
+    - label: "YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/@effariwhy/shorts"
+
+dan:
+  name        : "Dan"
+  bio         : "extroverted"
+  avatar      : "/assets/images/bio-photos/dan.png"
+
+
