@@ -1,6 +1,5 @@
 ---
 title: "Lists in Markdown"
-author: kristy
 ---
 ## Ordered List
 This in markdown:

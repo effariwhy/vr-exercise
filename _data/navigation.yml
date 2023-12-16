@@ -1,13 +1,11 @@
 # main links links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Search"
+    url: /search/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "VR Exercise"
+    url: /vr-exercise/
 
 # sidebar navigation list sample
 sidebar-sample:
@@ -23,18 +21,12 @@ sidebar-sample:
     children:
       - title: "About"
         url: /about/
-      - title: "Favorite Page 2"
-        url: /fav-page-2/
-      - title: "Favorite Page 3"
-        url: /fav-page-3/
   - title: "Favorite Collections"
     children:
-      - title: "Markdown"
-        url: /collections/markdown/
-      - title: "Favorite Collection 2"
-        url: /fave-collection-2/
-      - title: "Favorite Collection 3"
-        url: /fave-collection-3/
+      - title: "Code Snippets"
+        url: /collections/code-snippets/
+      - title: "Recipes"
+        url: /collections/recipes/
   - title: "Favorite Domains"
     children:
       - title: "NPR"

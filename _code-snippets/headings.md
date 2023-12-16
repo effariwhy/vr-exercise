@@ -1,6 +1,5 @@
 ---
 title: "Headings in Markdown"
-author: kristy
 ---
 
 # Heading Level 1
