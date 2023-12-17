@@ -147,7 +147,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - vr-exercise
+  - /vr-exercise
 keep_files:
   - .git
   - .svn
